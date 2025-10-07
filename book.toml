@@ -1,0 +1,8 @@
+[book]
+authors = ["Igor Cardoso"]
+language = "en"
+src = "src"
+title = "PANCs"
+
+[output.html]
+additional-css = ["theme/green.css"]

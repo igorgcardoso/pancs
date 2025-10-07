@@ -1,0 +1,104 @@
+/* Simple Green Color Theme for mdBook */
+/* Only changes colors, preserves all original functionality and layout */
+
+:root {
+    /* Light theme colors - greenish variants */
+    --bg: #fafff7;
+    --fg: #1a3d1a;
+
+    /* Sidebar colors */
+    --sidebar-bg: #2d5a3d;
+    --sidebar-fg: #e8f5e8;
+    --sidebar-non-existant: #7a8471;
+    --sidebar-active: #6b9b7f;
+    --sidebar-spacer: #4a7c59;
+
+    /* Menu bar colors */
+    --menu-bar-bg: #2d5a3d;
+    --menu-bar-border-color: #4a7c59;
+
+    /* Link colors */
+    --links: #4a7c59;
+
+    /* Search colors */
+    --searchbar-bg: #2d5a3d;
+    --searchbar-fg: #ffffff;
+    --searchbar-border-color: #4a7c59;
+    --searchresults-header-fg: #2d5a3d;
+    --searchresults-border-color: #a8d5ba;
+    --searchresults-li-bg: #f0f8f0;
+
+    /* Code colors */
+    --inline-code-color: #1a3d1a;
+
+    /* UI interaction colors */
+    --theme-popup-bg: #f0f8f0;
+    --theme-popup-border: #a8d5ba;
+    --theme-hover: #d4e6d4;
+
+    /* Quote colors */
+    --quote-bg: #f0f8f0;
+    --quote-border: #6b9b7f;
+
+    /* Table colors */
+    --table-border-color: #a8d5ba;
+    --table-header-bg: #2d5a3d;
+    --table-header-fg: #ffffff;
+    --table-alternate-bg: #f8fbf8;
+
+    /* Icon colors */
+    --icons: #1a3d1a;
+    --icons-hover: #ffffff;
+
+    /* Scrollbar colors */
+    --scrollbar: #6b9b7f;
+
+    /* Chapter outline */
+    --chapter-outline: #6b9b7f;
+}
+
+/* Apply green theme to all theme variants */
+.light,
+.rust,
+.coal,
+.navy,
+.ayu {
+    --bg: #fafff7;
+    --fg: #1a3d1a;
+    --sidebar-bg: #2d5a3d;
+    --sidebar-fg: #e8f5e8;
+    --sidebar-active: #6b9b7f;
+    --links: #4a7c59;
+    --menu-bar-bg: #2d5a3d;
+    --searchbar-bg: #2d5a3d;
+    --searchbar-fg: #ffffff;
+    --quote-bg: #f0f8f0;
+    --table-header-bg: #2d5a3d;
+    --table-alternate-bg: #f8fbf8;
+}
+
+/* Hide theme selector button */
+#theme-toggle {
+    display: none !important;
+}
+
+/* Hide theme popup */
+.theme-popup {
+    display: none !important;
+}
+
+/* Increase book title contrast */
+.menu-title {
+    color: #1a3d1a !important;
+    font-weight: bold !important;
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    padding: 4px 8px !important;
+    border-radius: 4px !important;
+}
+
+/* Make active chapter text white */
+.chapter li a.active {
+    background-color: transparent !important;
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
