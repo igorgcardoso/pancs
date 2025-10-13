@@ -3,6 +3,7 @@
 - [Livro de Receita PANC](./capa.md)
 - [Introdução](./introducao.md)
 - [PANCs Por Minas](./pancs_por_minas.md)
+- [Referências](./referencias.md)
 
 # Receitas
 
@@ -14,3 +15,4 @@
 - [BOLINHOS DE BELDROEGA](./receitas/bolinhas_de_beldroega.md)
 - [MOUSSE DE BUTIÁ](./receitas/mousse_de_butia.md)
 - [MOUSSE DE GUABIROBA](./receitas/mousse_de_guabiroba.md)
+- [Sopa Salgada de Taioba](./receitas/sopa_salgada_de_taioba.md)
