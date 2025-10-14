@@ -1,80 +1,80 @@
-/* Simple Green Color Theme for mdBook */
+/* Simple Blue Color Theme for mdBook */
 /* Only changes colors, preserves all original functionality and layout */
 
 :root {
-    /* Light theme colors - greenish variants */
-    --bg: #fafff7;
-    --fg: #1a3d1a;
+    /* Light theme colors - bluish aqua variants */
+    --bg: #f7fcff;
+    --fg: #1a3d4d;
 
     /* Sidebar colors */
-    --sidebar-bg: #2d5a3d;
-    --sidebar-fg: #e8f5e8;
-    --sidebar-non-existant: #7a8471;
-    --sidebar-active: #6b9b7f;
-    --sidebar-spacer: #4a7c59;
+    --sidebar-bg: #2d5a6b;
+    --sidebar-fg: #e8f5ff;
+    --sidebar-non-existant: #7a8894;
+    --sidebar-active: #80D0E5;
+    --sidebar-spacer: #4a7c8c;
 
     /* Menu bar colors */
-    --menu-bar-bg: #2d5a3d;
-    --menu-bar-border-color: #4a7c59;
+    --menu-bar-bg: #2d5a6b;
+    --menu-bar-border-color: #4a7c8c;
 
     /* Link colors */
-    --links: #4a7c59;
+    --links: #4a7c8c;
 
     /* Search colors */
-    --searchbar-bg: #2d5a3d;
+    --searchbar-bg: #2d5a6b;
     --searchbar-fg: #ffffff;
-    --searchbar-border-color: #4a7c59;
-    --searchresults-header-fg: #2d5a3d;
-    --searchresults-border-color: #a8d5ba;
-    --searchresults-li-bg: #f0f8f0;
+    --searchbar-border-color: #4a7c8c;
+    --searchresults-header-fg: #2d5a6b;
+    --searchresults-border-color: #80D0E5;
+    --searchresults-li-bg: #f0f8ff;
 
     /* Code colors */
-    --inline-code-color: #1a3d1a;
+    --inline-code-color: #1a3d4d;
 
     /* UI interaction colors */
-    --theme-popup-bg: #f0f8f0;
-    --theme-popup-border: #a8d5ba;
-    --theme-hover: #d4e6d4;
+    --theme-popup-bg: #f0f8ff;
+    --theme-popup-border: #80D0E5;
+    --theme-hover: #d4e6f4;
 
     /* Quote colors */
-    --quote-bg: #f0f8f0;
-    --quote-border: #6b9b7f;
+    --quote-bg: #f0f8ff;
+    --quote-border: #80D0E5;
 
     /* Table colors */
-    --table-border-color: #a8d5ba;
-    --table-header-bg: #2d5a3d;
+    --table-border-color: #80D0E5;
+    --table-header-bg: #2d5a6b;
     --table-header-fg: #ffffff;
-    --table-alternate-bg: #f8fbf8;
+    --table-alternate-bg: #f8fbff;
 
     /* Icon colors */
-    --icons: #1a3d1a;
+    --icons: #1a3d4d;
     --icons-hover: #ffffff;
 
     /* Scrollbar colors */
-    --scrollbar: #6b9b7f;
+    --scrollbar: #80D0E5;
 
     /* Chapter outline */
-    --chapter-outline: #6b9b7f;
+    --chapter-outline: #80D0E5;
 }
 
-/* Apply green theme to all theme variants */
+/* Apply bluish aqua theme to all theme variants */
 .light,
 .rust,
 .coal,
 .navy,
 .ayu {
-    --bg: #fafff7;
-    --fg: #1a3d1a;
-    --sidebar-bg: #2d5a3d;
-    --sidebar-fg: #e8f5e8;
-    --sidebar-active: #6b9b7f;
-    --links: #4a7c59;
-    --menu-bar-bg: #2d5a3d;
-    --searchbar-bg: #2d5a3d;
+    --bg: #f7fcff;
+    --fg: #1a3d4d;
+    --sidebar-bg: #2d5a6b;
+    --sidebar-fg: #e8f5ff;
+    --sidebar-active: #80D0E5;
+    --links: #4a7c8c;
+    --menu-bar-bg: #2d5a6b;
+    --searchbar-bg: #2d5a6b;
     --searchbar-fg: #ffffff;
-    --quote-bg: #f0f8f0;
-    --table-header-bg: #2d5a3d;
-    --table-alternate-bg: #f8fbf8;
+    --quote-bg: #f0f8ff;
+    --table-header-bg: #2d5a6b;
+    --table-alternate-bg: #f8fbff;
 }
 
 /* Hide theme selector button */
@@ -89,7 +89,7 @@
 
 /* Increase book title contrast */
 .menu-title {
-    color: #1a3d1a !important;
+    color: #1a3d4d !important;
     font-weight: bold !important;
     background-color: rgba(255, 255, 255, 0.9) !important;
     padding: 4px 8px !important;

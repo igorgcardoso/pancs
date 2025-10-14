@@ -1,5 +1,7 @@
 # Bolinho de fubá com lobrobro
 
+## Ingredientes
+
 - 1 ovo
 - salsa
 - cebolinha
@@ -9,8 +11,10 @@
 - alho
 - 1 xicara de fuba
 - meia xicara de leite
-- 1 colher de pó royal 
+- 1 colher de pó royal
 
-misture tudo e frite em óleo quente 
+## Modo de preparo
+
+misture tudo e frite em óleo quente
 
 receita citada por Ana Araceli, 58 anos , receita ensinada pela sua mãe, e conhecida desde sua infância
