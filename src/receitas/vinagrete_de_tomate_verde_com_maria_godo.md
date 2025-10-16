@@ -19,7 +19,7 @@
 
 <div>
 
-<img src="/assets/vinagrete.jpeg" alt="Vinagrete de Tomate Verde com Maria Godo" style="width: 300px; height: auto;">
+<img src="../assets/vinagrete.jpeg" alt="Vinagrete de Tomate Verde com Maria Godo" style="width: 300px; height: auto;">
 
 </div>
 

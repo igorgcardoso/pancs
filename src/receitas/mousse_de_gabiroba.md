@@ -14,7 +14,7 @@
 
 <div>
 
-<img src="/assets/gabiroba.jpeg" alt="Mousse de Gabiroba" style="width: auto; height: 200px;">
+<img src="../assets/gabiroba.jpeg" alt="Mousse de Gabiroba" style="width: auto; height: 200px;">
 
 </div>
 

@@ -19,7 +19,7 @@
 
 <div>
 
-<img src="/assets/peixe.jpeg" alt="Peixinho da Hortas" style="width: 300px; height: auto;">
+<img src="../assets/peixe.jpeg" alt="Peixinho da Hortas" style="width: 300px; height: auto;">
 
 </div>
 

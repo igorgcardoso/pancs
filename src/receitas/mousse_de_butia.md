@@ -15,7 +15,7 @@
 
 <div>
 
-<img src="/assets/butia.jpeg" alt="Mousse de Butia" style="width: auto; height: 200px;">
+<img src="../assets/butia.jpeg" alt="Mousse de Butia" style="width: auto; height: 200px;">
 
 </div>
 

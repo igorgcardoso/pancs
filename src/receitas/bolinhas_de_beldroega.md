@@ -16,7 +16,7 @@
 
 <div>
 
-<img src="/assets/beldroega.jpeg" alt="Bolinhos de Beldroega" style="width: auto; height: 300px;">
+<img src="../assets/beldroega.jpeg" alt="Bolinhos de Beldroega" style="width: auto; height: 300px;">
 
 </div>
 

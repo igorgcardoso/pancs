@@ -15,7 +15,7 @@
 
 <div>
 
-<img src="/assets/taioba.jpeg" alt="Taioba" style="width: 300px; height: auto;">
+<img src="../assets/taioba.jpeg" alt="Taioba" style="width: 300px; height: auto;">
 
 </div>
 

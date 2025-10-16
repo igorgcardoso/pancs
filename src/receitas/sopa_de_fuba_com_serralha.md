@@ -16,7 +16,7 @@
 
 <div>
 
-<img src="/assets/serralha.jpeg" alt="Sopa de fuba com serralha" style="width: 300px; height: auto;">
+<img src="../assets/serralha.jpeg" alt="Sopa de fuba com serralha" style="width: 300px; height: auto;">
 
 </div>
 

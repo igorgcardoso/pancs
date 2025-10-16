@@ -14,7 +14,7 @@
 
 <div>
 
-<img src="/assets/sopa.jpeg" alt="Sopa de taioba" style="width: auto; height: 200px;">
+<img src="../assets/sopa.jpeg" alt="Sopa de taioba" style="width: auto; height: 200px;">
 
 </div>
 

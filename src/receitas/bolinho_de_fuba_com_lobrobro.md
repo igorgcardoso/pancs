@@ -21,7 +21,7 @@
 
 <div>
 
-<img src="/assets/bolinho.jpeg" alt="Bolinho de Fuba com Lobrobro" style="width: auto; height: 300px;">
+<img src="../assets/bolinho.jpeg" alt="Bolinho de Fuba com Lobrobro" style="width: auto; height: 300px;">
 
 </div>
 
