@@ -1,6 +1,10 @@
-# Bolinho de fubá com lobrobro
+# BOLINHO DE FUBA COM LOBROBRO (ORO-PRO-NOBIS)
 
-## Ingredientes
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div>
+
+## Ingredientes:
 
 - 1 ovo
 - salsa
@@ -11,10 +15,22 @@
 - alho
 - 1 xicara de fuba
 - meia xicara de leite
-- 1 colher de pó royal
+- 1 colher de fermento químico
 
-## Modo de preparo
+</div>
 
-misture tudo e frite em óleo quente
+<div>
 
-receita citada por Ana Araceli, 58 anos , receita ensinada pela sua mãe, e conhecida desde sua infância
+<img src="/assets/bolinho.jpeg" alt="Bolinho de Fuba com Lobrobro" style="width: auto; height: 300px;">
+
+</div>
+
+</div>
+
+## Modo de preparo:
+
+Misture tudo e frite em óleo quente
+
+## Citado por:
+
+Ana Araceli, receita ensinada pela sua mãe, e conhecida desde sua infância

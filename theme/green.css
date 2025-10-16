@@ -10,7 +10,7 @@
     --sidebar-bg: #2d5a6b;
     --sidebar-fg: #e8f5ff;
     --sidebar-non-existant: #7a8894;
-    --sidebar-active: #80D0E5;
+    --sidebar-active: #80d0e5;
     --sidebar-spacer: #4a7c8c;
 
     /* Menu bar colors */
@@ -25,7 +25,7 @@
     --searchbar-fg: #ffffff;
     --searchbar-border-color: #4a7c8c;
     --searchresults-header-fg: #2d5a6b;
-    --searchresults-border-color: #80D0E5;
+    --searchresults-border-color: #80d0e5;
     --searchresults-li-bg: #f0f8ff;
 
     /* Code colors */
@@ -33,15 +33,15 @@
 
     /* UI interaction colors */
     --theme-popup-bg: #f0f8ff;
-    --theme-popup-border: #80D0E5;
+    --theme-popup-border: #80d0e5;
     --theme-hover: #d4e6f4;
 
     /* Quote colors */
     --quote-bg: #f0f8ff;
-    --quote-border: #80D0E5;
+    --quote-border: #80d0e5;
 
     /* Table colors */
-    --table-border-color: #80D0E5;
+    --table-border-color: #80d0e5;
     --table-header-bg: #2d5a6b;
     --table-header-fg: #ffffff;
     --table-alternate-bg: #f8fbff;
@@ -51,10 +51,10 @@
     --icons-hover: #ffffff;
 
     /* Scrollbar colors */
-    --scrollbar: #80D0E5;
+    --scrollbar: #80d0e5;
 
     /* Chapter outline */
-    --chapter-outline: #80D0E5;
+    --chapter-outline: #80d0e5;
 }
 
 /* Apply bluish aqua theme to all theme variants */
@@ -67,7 +67,7 @@
     --fg: #1a3d4d;
     --sidebar-bg: #2d5a6b;
     --sidebar-fg: #e8f5ff;
-    --sidebar-active: #80D0E5;
+    --sidebar-active: #80d0e5;
     --links: #4a7c8c;
     --menu-bar-bg: #2d5a6b;
     --searchbar-bg: #2d5a6b;

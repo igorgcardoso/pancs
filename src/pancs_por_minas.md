@@ -11,7 +11,11 @@ nas feiras do estado.
 
 PANCs que podem ser encontradas em Minas Gerais:
 
-- Azedinha (**Rumex acetosa L.**)
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div>
+
+- Azedinha (Rumex acetosa L.)
 - Bertalha (Basella alba L)
 - Caruru (Amaranthus viridis)
 - Capuchinha (Tropaeolum majus L.)
@@ -20,3 +24,13 @@ PANCs que podem ser encontradas em Minas Gerais:
 - Peixinho (Stachys byzantina)
 - Serralha (_Sonchus oleraceus L._)
 - Taioba (_Xanthosoma sagittifolium_)
+
+</div>
+
+<div>
+
+<img src="./assets/minas.jpeg" alt="Minas" style="width: 300px; height: auto;">
+
+</div>
+
+</div>

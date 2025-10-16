@@ -1,10 +1,34 @@
-# Petisco de talo de taioba
+# PETISCO DE TALO DE TAIOBA
 
-selecione alguns talos de taioba, não muito finos, os mais grossos\
-descasque os talos\
-corte os em tira ( tipo batata frita)\
-tempere com sal a gosto\
-empane no fubá\
-frite em óleo limpo e quente
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-Receita citada por Romilda, ela aprendeu esta receita com sua mãe, que fazia as folhas da taioba refogada, e para aproveitar o todo da hortaliça servia deste modo os talos.
+<div>
+
+## Ingredientes:
+
+- Talos de taioba
+- Sal a gosto
+- Fubá
+- Óleo de soja
+
+</div>
+
+<div>
+
+<img src="/assets/taioba.jpeg" alt="Taioba" style="width: 300px; height: auto;">
+
+</div>
+
+</div>
+
+## Modo de preparo:
+
+Selecione alguns talos de taioba não muito finos e descasque-os.
+
+Corte os talos em tira ( tipo batata frita) e tempere com sal a gosto.
+
+Empane no fubá e frite em óleo limpo e quente
+
+## Citado por:
+
+Romilda, ela aprendeu esta receita com sua mãe, que fazia as folhas da taioba refogada, e para aproveitar o todo da hortaliça servia deste modo os talos.

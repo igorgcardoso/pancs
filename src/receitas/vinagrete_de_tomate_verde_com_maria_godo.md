@@ -1,6 +1,10 @@
-# Vinagrete de tomate verde com Maria godo
+# VINAGRETE DE TOMATE VERDE COM MARIA GODO
 
-## Ingredientes
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
+
+## Ingredientes:
 
 - 2 tomates verdes
 - 1 cebola
@@ -11,11 +15,30 @@
 - Pimenta do reino a gosto
 - Meio maço de Maria godo
 
-## Modo de preparo
+</div>
+
+<div>
+
+<img src="/assets/vinagrete.jpeg" alt="Vinagrete de Tomate Verde com Maria Godo" style="width: 300px; height: auto;">
+
+</div>
+
+</div>
+
+## Modo de preparo:
 
 Retire a sementes do tomate e pique em cubos do tamanho de sua preferência ...reserveos
+
 Repique a cebola a Maria godo e misture com os tomates
+
 Adicione o suco do limão o azeite e o vinagre
+
 Adicione o sal e a pimenta no seu gosto
+
 O ideia e deixar descansar por 30 min antes de servir para os ingredientes emuncionar
+
 E um ótimo acompanhamento para carnes de porco bolinhos e no churrasco ....
+
+## Citado por:
+
+André Luiz, gastrônomo chef, oferecia esta receita no cardápio de seu restaurante.

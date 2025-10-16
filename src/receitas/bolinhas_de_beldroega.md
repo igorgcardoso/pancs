@@ -1,6 +1,10 @@
 # BOLINHOS DE BELDROEGA
 
-## Ingredientes
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
+
+## Ingredientes:
 
 - 200g de Beldroega lavada
 - 2 ovos inteiros
@@ -8,6 +12,20 @@
 - 1 col de sobremesa de fermento em pó
 - 2 col de sopa de queijo ralado
 
-## MODO DE PREPARAR
+</div>
+
+<div>
+
+<img src="/assets/beldroega.jpeg" alt="Bolinhos de Beldroega" style="width: auto; height: 300px;">
+
+</div>
+
+</div>
+
+## Modo de preparo:
 
 Misturar todos os ingredientes e fritar a massa em formato de bolinhos em óleo bem quente.
+
+## Citado por:
+
+André Luiz. Preparação descoberta em um livro de receitas e replicada em casa.
