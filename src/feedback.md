@@ -4,11 +4,11 @@
 
 <div id="feedback-form" style="text-align: center; margin: 2rem 0;">
   <div style="margin-bottom: 1rem;">
-    <button class="rating-btn" data-rating="1" style="font-size: 2rem; margin: 0 0.5rem; background: none; border: none; cursor: pointer;">😞</button>
-    <button class="rating-btn" data-rating="2" style="font-size: 2rem; margin: 0 0.5rem; background: none; border: none; cursor: pointer;">😕</button>
-    <button class="rating-btn" data-rating="3" style="font-size: 2rem; margin: 0 0.5rem; background: none; border: none; cursor: pointer;">😐</button>
-    <button class="rating-btn" data-rating="4" style="font-size: 2rem; margin: 0 0.5rem; background: none; border: none; cursor: pointer;">😊</button>
-    <button class="rating-btn" data-rating="5" style="font-size: 2rem; margin: 0 0.5rem; background: none; border: none; cursor: pointer;">😍</button>
+    <button class="rating-btn" data-rating="1" style="font-size: 2rem; margin: 0 0.5rem; background: #f0f8ff; border: 2px solid #4a7c8c; border-radius: 8px; padding: 8px; cursor: pointer; color: #1a3d4d;">:disappointed:</button>
+    <button class="rating-btn" data-rating="2" style="font-size: 2rem; margin: 0 0.5rem; background: #f0f8ff; border: 2px solid #4a7c8c; border-radius: 8px; padding: 8px; cursor: pointer; color: #1a3d4d;">:confused:</button>
+    <button class="rating-btn" data-rating="3" style="font-size: 2rem; margin: 0 0.5rem; background: #f0f8ff; border: 2px solid #4a7c8c; border-radius: 8px; padding: 8px; cursor: pointer; color: #1a3d4d;">:neutral_face:</button>
+    <button class="rating-btn" data-rating="4" style="font-size: 2rem; margin: 0 0.5rem; background: #f0f8ff; border: 2px solid #4a7c8c; border-radius: 8px; padding: 8px; cursor: pointer; color: #1a3d4d;">:smile:</button>
+    <button class="rating-btn" data-rating="5" style="font-size: 2rem; margin: 0 0.5rem; background: #f0f8ff; border: 2px solid #4a7c8c; border-radius: 8px; padding: 8px; cursor: pointer; color: #1a3d4d;">:heart_eyes:</button>
   </div>
   <div id="feedback-message" style="margin-top: 1rem; font-weight: bold;"></div>
 </div>

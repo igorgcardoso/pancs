@@ -4,5 +4,7 @@ language = "en"
 src = "src"
 title = "PANCs"
 
+[preprocessor.emojicodes]
+
 [output.html]
 additional-css = ["theme/green.css"]
