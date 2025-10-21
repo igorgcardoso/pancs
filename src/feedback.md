@@ -17,15 +17,15 @@
 document.addEventListener('DOMContentLoaded', function() {
   const buttons = document.querySelectorAll('.rating-btn');
   const message = document.getElementById('feedback-message');
-  
+
   buttons.forEach(button => {
     button.addEventListener('click', function() {
       const rating = this.dataset.rating;
-      
+
       buttons.forEach(btn => btn.style.opacity = '0.3');
       this.style.opacity = '1';
-      
-      fetch('/api/feedback', {
+
+      fetch('https://pancs-feedback.onrender.com/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ rating: parseInt(rating) })
