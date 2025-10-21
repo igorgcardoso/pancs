@@ -31,4 +31,4 @@ Empane no fubá e frite em óleo limpo e quente
 
 ## Citado por:
 
-Romilda, ela aprendeu esta receita com sua mãe, que fazia as folhas da taioba refogada, e para aproveitar o todo da hortaliça servia deste modo os talos.
+Romilda, nascida em Viçosa - MG, ela aprendeu esta receita com sua mãe, que fazia as folhas da taioba refogada, e para aproveitar o todo da hortaliça servia deste modo os talos.

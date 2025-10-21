@@ -6,10 +6,10 @@
 
 ## Ingredientes:
 
-- 1 copo e meio de polpa de butiá (400ml)
-- 1 lata de leite condensado
-- 1 lata de creme de leite
-- 1 envelope de gelatina incolor
+- 1 Copo e meio de polpa de butiá (400ml)
+- 1 Lata de leite condensado
+- 1 Lata de creme de leite
+- 1 Envelope de gelatina incolor
 
 </div>
 
@@ -23,8 +23,8 @@
 
 ## Modo de preparo:
 
-Bater tudo no liquidificador e gelar.
+Bater tudo no liquidificador, despeje tudo em uma travessa e coloque para gelar.
 
 ## Citado por:
 
-André Luiz. Preparação descoberta em um livro de receitas e replicada em casa.
+André Luiz, nascido em Viçosa - MG, preparação descoberta em um livro de receitas e replicada em casa.

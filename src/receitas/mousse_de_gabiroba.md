@@ -6,9 +6,9 @@
 
 ## Ingredientes
 
-- 1 e meia medida de polpa de gabiroba
-- 1 medida de nata
-- 1 medida de leite condensado
+- 1 1/2 medida de polpa de gabiroba
+- 1 Medida de nata
+- 1 Medida de leite condensado
 
 </div>
 
@@ -28,4 +28,4 @@ Para fazer sorvete: bater e congelar, bater e congelar por 3 vezes.
 
 ## Citado por:
 
-André Luiz. Preparação descoberta em um livro de receitas e replicada em casa.
+André Luiz, nascido em Viçosa - MG preparação descoberta em um livro de receitas e replicada em casa.

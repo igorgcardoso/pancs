@@ -7,10 +7,10 @@
 ## Ingredientes:
 
 - 200g de Beldroega lavada
-- 2 ovos inteiros
+- 2 Ovos inteiros
 - Farinha de trigo integral (suficiente para deixar a massa "meio mole")
-- 1 col de sobremesa de fermento em pó
-- 2 col de sopa de queijo ralado
+- 1 Colher de sobremesa de fermento em pó
+- 2 Colher de sopa de queijo ralado
 
 </div>
 
@@ -28,4 +28,4 @@ Misturar todos os ingredientes e fritar a massa em formato de bolinhos em óleo 
 
 ## Citado por:
 
-André Luiz. Preparação descoberta em um livro de receitas e replicada em casa.
+André Luiz, nascido em Viçosa - MG, preparação descoberta em um livro de receitas e replicada em casa.

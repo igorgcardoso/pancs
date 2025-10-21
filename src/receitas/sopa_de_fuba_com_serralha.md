@@ -6,11 +6,11 @@
 
 ## Ingredientes:
 
-- 1 xícara fubá
-- 4 xícaras água
-- serralha picada
-- a gosto sal e pimenta
-- 1/2 cebola
+- 1 Xícara fubá
+- 4 Xícaras água
+- Serralha picada
+- A gosto sal e pimenta
+- 1/2 Cebola
 
 </div>
 
@@ -32,4 +32,4 @@ refogue a serralha e acrescente ao fubá
 
 ## Citado por:
 
-Romilda, por ter serralha em seu quintal, faz com frequência este mingau em noites frias.
+Romilda, nascida em Viçosa - MG, por ter serralha em seu quintal, faz com frequência este mingau em noites frias.

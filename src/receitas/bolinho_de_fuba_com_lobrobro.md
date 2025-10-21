@@ -1,4 +1,4 @@
-# BOLINHO DE FUBA COM LOBROBRO (ORO-PRO-NOBIS)
+# BOLINHO DE FUBÁ COM LOBROBRO (ORO-PRO-NOBIS)
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
@@ -6,16 +6,16 @@
 
 ## Ingredientes:
 
-- 1 ovo
-- salsa
-- cebolinha
-- cebola ralada
-- pedaços picados de oro-pro-nobis
-- sal a gosto
-- alho
-- 1 xicara de fuba
-- meia xicara de leite
-- 1 colher de fermento químico
+- 1 Ovo
+- Salsa
+- Cebolinha
+- Cebola ralada
+- Pedaços picados de oro-pro-nobis
+- Sal a gosto
+- Alho
+- 1 Xícara de fubá
+- Meia xícara de leite
+- 1 Colher de fermento químico
 
 </div>
 
@@ -29,8 +29,8 @@
 
 ## Modo de preparo:
 
-Misture tudo e frite em óleo quente
+Misture tudo garantindo o ponto de enrolar com as mão e frite em óleo quente
 
 ## Citado por:
 
-Ana Araceli, receita ensinada pela sua mãe, e conhecida desde sua infância
+Ana Araceli, nascida em Viçosa - MG, receita ensinada pela sua mãe, e conhecida desde sua infância

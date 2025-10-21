@@ -8,7 +8,7 @@
 
 - Fubá - 2 colheres de servir
 - Taioba - quantidade a gosto
-- tempero - alho sal, oleo
+- Tempero - alho sal, oleo
 
 </div>
 
@@ -28,4 +28,4 @@ Pode colocar serralha ou mostarda
 
 ## Citada por:
 
-Dona Maria Helena
+Dona Maria Helena, nascida em Viçosa - MG

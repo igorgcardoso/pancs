@@ -6,11 +6,11 @@
 
 ## Ingredientes:
 
-- 1 limão
+- 1 Limão
 - Sal a gosto
 - Um maço das folhas de peixinho da horta
 - 100ml de leite
-- 1 ovo
+- 1 Ovo
 - 200g de fubá
 - 100g de farinha de trigo
 - Óleo de soja
@@ -37,4 +37,4 @@ Frite em óleo limpo.
 
 ## Citada por:
 
-Ana Araceli, ela nos contou que essa receita é muito comum no meio ovo lacto vegetariano para substituir o peixe frito em tira gosto, e uma amiga vegana que a ensinou
+Ana Araceli, nascida em Viçosa - MG, ela nos contou que essa receita é muito comum no meio ovo lacto vegetariano para substituir o peixe frito em tira gosto, e uma amiga vegana que a ensinou
