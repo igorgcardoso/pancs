@@ -18,4 +18,5 @@
 
 ---
 
+- [Feedback](./feedback.md)
 - [Referências](./referencias.md)
